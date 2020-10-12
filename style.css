@@ -14,7 +14,7 @@ body {
 .specs .img-wrapper .absolute {
   position: absolute;
   left: 0;
-  top: 20px;
+  top: -150px;
   z-index: -1;
 }
 
