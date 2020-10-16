@@ -74,6 +74,7 @@ p {
 .lead {
   padding-left: 20px;
 }
+
 footer {
   display: flex;
   flex-direction: column;
